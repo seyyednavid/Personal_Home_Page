@@ -33,10 +33,10 @@ document.getElementById('previous').addEventListener('click', (event) => {
   i = (typeof i === 'number' ? i : 0) + -1;
   if (i == 1) {
     let element_img7 = document.getElementById('img');
-    element_img7.setAttribute("src", 'https://files.fm/thumb_show.php?i=u2cxk5d6z');
+    element_img7.setAttribute("src", 'https://files.fm/thumb_show.php?i=38cpja4kv');
   } else if (i == 2) {
     let element_img8 = document.getElementById('img');
-    element_img8.setAttribute("src", 'https://s3.uupload.ir/files/navid68/sql2.jpeg');
+    element_img8.setAttribute("src", 'https://files.fm/thumb_show.php?i=u2cxk5d6z');
   } else if (i == 3) {
     let element_img9 = document.getElementById('img');
     element_img9.setAttribute("src", 'https://files.fm/thumb_show.php?i=zdqka7f8z');
@@ -49,7 +49,7 @@ document.getElementById('previous').addEventListener('click', (event) => {
   } else if (i == 0) {
     i = 5;
     let element_img12 = document.getElementById('img');
-    element_img12.setAttribute("src", 'https://s3.uupload.ir/files/navid68/Ml5.jpeg');
+    element_img12.setAttribute("src", 'https://files.fm/thumb_show.php?i=9n7pb2ma2');
   }
 });
 
